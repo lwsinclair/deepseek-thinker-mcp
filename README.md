@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ruixingshi-deepseek-thinker-mcp-badge.png)](https://mseep.ai/app/ruixingshi-deepseek-thinker-mcp)
+
 # Deepseek Thinker MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@ruixingshi/deepseek-thinker-mcp)](https://smithery.ai/server/@ruixingshi/deepseek-thinker-mcp)
